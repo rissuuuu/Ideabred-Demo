@@ -1,2 +1,8 @@
 This is a simple file that stores some information about me. 
 My name is Rishav Paudel.
+
+
+
+init and git remote add is only for first time.
+
+I added second line in this.
